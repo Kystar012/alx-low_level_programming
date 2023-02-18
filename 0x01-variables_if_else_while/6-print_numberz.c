@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- * main -list numbers using putchar function
+ * main - list numbers using putchar function
  *
- * return :0(success)
+ * Return :Always(0)success
  */
-
 int main(void)
 {
 	int num1;
