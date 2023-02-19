@@ -7,13 +7,14 @@
  */
 int main(void)
 {
-	int num1;
+	int i;
+
+for (i = 0; i < 10; i++)
+{
+	putchar(i);
+}
 	char alpha;
 
-for (num1 = 0; num1 < 10; num1++)
-{
-	putchar((num1 % 10) + '0');
-}
 for (alpha = 'a'; alpha <= 'f'; alpha++)
 {
 	putchar(alpha);
