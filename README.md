@@ -20,5 +20,8 @@
 </p>
 </section>
 <hr>
+<footer>
+<p align="centre"> Copyright &copy </p>
+</footer>
 </body>
 </html>
