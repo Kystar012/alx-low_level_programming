@@ -12,7 +12,7 @@
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x03-debugging">0x03. C - Debugging</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops">0x04-more_functions_nested_loops</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings">0x05-pointers_arrays_strings </a></li>
-<li><a href=" ">  </a></li>
+<li><a href=" ">0x06-pointers_arrays_strings</a></li>
 
 </ol>
 
