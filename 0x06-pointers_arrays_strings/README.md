@@ -14,6 +14,9 @@
 <tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/5-string_toupper.c">5-string_toupper.c</a></td><td> The function changes a string from lowercase to uppercase.</td></tr>
 <tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/6-cap_string.c">6-cap_string.c</a></td><td> The function each word of a string  using provided terminators</td></tr>
 <tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c">7-leet.c</a></td><td> The function is sed to encode a string</td></tr>
+<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/100-rot13.c">100-rot13.c</a><td>encodes a string</td></tr>
+<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/101-print_number.c"> 101-print_numbers.c</a></td><td> The function prints an integer </td></tr>
+<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/102-magic.c"> 102-magic.c</a></td><td>magic file </td></tr>
 
 </table></p></section><hr><footer>
 <p><b> Copyright &copy </b> <em>Kystar012</em></p></footer></body>
