@@ -4,7 +4,7 @@
   *@s:string
   *@c:character to be located
   *
-  *Returns:a pointer(success) or  NULL if the character is not found
+  *Return:a pointer(success) or  NULL if the character is not found
   */
 char *_strchr(char *s, char c)
 {
