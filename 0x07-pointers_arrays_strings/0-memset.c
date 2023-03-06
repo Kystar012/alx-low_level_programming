@@ -5,7 +5,7 @@
   *@b:constant byte to fill the memory
   *@n:memory area size
   *
-  *Return :pointer to a memory
+  *Return:a pointer to the  memory
   */
 char *_memset(char *s, char b, unsigned int n)
 {
