@@ -3,14 +3,18 @@
   *factorial-returns the factorial of a number
   *@n:number
   *
-  *Returns:factor(success) or -1(error)
+  *Return:factor if n is more than zero,1 if its zero and -1 of less than zero
   */
 int factorial(int n)
 {
-	if (n >= 0)
+	if (n > 0)
 	{
 		return (n * factorial(n - 1));
 	}
-	else
+	else if (n < 0)
+	{
 	return (-1);
+	}
+	else
+		return (1);
 }
