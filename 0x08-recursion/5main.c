@@ -3,17 +3,12 @@
 int _sqrt_recursion(int n)
 {
         int sroot;
+	if (sroot == (n / 2) || n < 1)
+        {                                                            return (-1);                                 }
+sroot = n * _sqrt_recursion(0.5);
+
         if (sroot * sroot == n)
-        {
-		 sroot = n * _sqrt_recursion(0.5);
-                return (sroot);
-        }
-        else if (sroot == (n / 2) || n < 1)
-        {
-        return (-1);
-        }
-        else
-                return (1);
+        return (sroot);
 }
 
 /**
