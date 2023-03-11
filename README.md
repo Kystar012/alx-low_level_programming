@@ -13,8 +13,10 @@
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops">0x04-more_functions_nested_loops</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings">0x05-pointers_arrays_strings </a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings">0x06-pointers_arrays_strings</a></li>
-<li><a href="">0x07-pointers_arrays_strings</a></li>
-<li><a href="">0x08-recursion</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x08-recursion">0x08-recursion</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x09-static_libraries">0x09-static_libraries</a></li>
+<li><a href="">0x0A-argc_argv</a></li>
 </ol>
 
 
