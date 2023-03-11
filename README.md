@@ -16,7 +16,7 @@
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x08-recursion">0x08-recursion</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x09-static_libraries">0x09-static_libraries</a></li>
-<li><a href="">0x0A-argc_argv</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0A-argc_argv">0x0A-argc_argv</a></li>
 </ol>
 
 
@@ -24,7 +24,7 @@
 </section>
 <hr>
 <footer>
-<p align=centre> Copyright &copy </p>
+<p align=centre> Copyright &copy <em>KYSTAR012</em> </p>
 </footer>
 </body>
 </html>
