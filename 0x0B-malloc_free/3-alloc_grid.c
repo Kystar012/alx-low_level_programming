@@ -2,26 +2,42 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-  *alloc_grid-returns a pointer to a 2D array of integers
-  *@width:row of the 2D array
-  *@height:column of the 2D array
-  *
-  *Return:NULL(failure) and a pointer if  successful
-  */
+*alloc_grid-returns a pointer to a 2D array of integers
+*@width:row of the 2D array
+*@height:column of the 2D array
+*
+*Return:NULL(failure) and a pointer if  successful
+*/
 int **alloc_grid(int width, int height)
 {
 	int j = 0, k = 0;/*j and k are array elements*/
-	int matrix[w][h];/*w-for width and h-for height*/
-	int *ptr = malloc((w * h) * sizeof(int));/*allocating memory to pointer*/
+	int **array;
 
+	if (height <= 0 || width <= 0)
+		return (NULL);
 
-if (w <= 0 || h <= 0)
-	return ('\0');
-for (j = 0; j < w * h; j++)
-	ptr[j] = j + 1;
-if (ptr == NULL)
-	return ('\0');
+	array = (int **) malloc(sizeof(int *) * height);
 
+	if (array == NULL)
+		return (NULL);
+	for (j = 0; j < height; j++)
+	{
+		array[j] = (int *) malloc(sizeof(int) * width);
+		if (array[j] == NULL)
+		{
+			free(array);
+			for (k = 0; k <= j; k++)
+				free(array[k]);
+			return (NULL);
+		}
+	}
 
-
+	for (j = 0; j < height; j++)
+	{
+		for (k = 0; k < width; k++)
+		{
+			array[j][k] = 0;
+		}
+	}
+	return (array);
 }
