@@ -17,10 +17,10 @@ li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x08-recursion">0x08-recursion</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x09-static_libraries">0x09-static_libraries</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0A-argc_argv">0x0A-argc_argv</a></li>
-<li><a href="">0x0B-malloc_free</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0B-malloc_free">0x0B-malloc_free</a></li>
+<li><a href="">0x0C-more_malloc_free</a></li>
+
 </ol>
-
-
 </p>
 </section>
 <hr>
