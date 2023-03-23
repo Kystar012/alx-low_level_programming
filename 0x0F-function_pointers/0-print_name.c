@@ -1,5 +1,4 @@
 #include "function_pointers.h"
-#include <stdlib.h>
 /**
   *print_name-prints a name
   *@f:a void function pointer passed as an argument
