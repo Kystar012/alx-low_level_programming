@@ -2,6 +2,11 @@
 #include <stdio.h>
 #include <stdarg.h>
 /**
+  *print_strings-pronts the string
+  *@n:number of string passsed to argument
+  *@separator:string to be printed between strings
+  *
+  *Return:void
   */
 void print_strings(const char *separator, const unsigned int n, ...)
 {
@@ -14,13 +19,9 @@ void print_strings(const char *separator, const unsigned int n, ...)
 	{
 		str = va_arg(pstr, char *);
 		if (str == NULL)
-		
 			printf("nil");
-		
 		else
-		
 			printf("%s", str);
-		
 		if (index != (n - 1) && separator != NULL)
 			printf("%s", separator);
 	}
