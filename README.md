@@ -24,12 +24,13 @@
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0F-function_pointers">0x0F-function_pointers</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x10-variadic_functions">0x10-variadic_functions</a></li>
 <li><a href="https://github.com/Kystar012/printf">0x11. C - printf</a></li>
-<li><a href="">0x12-singly_linked_lists</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x12-singly_linked_lists">0x12-singly_linked_lists</a></li>
 </ol>
 </section>
 <hr>
 <footer>
-<p align=centre> Copyright &copy <em>KYSTAR012</em> </p>
+<p align=centre>&copy; <em>KYSTAR012</em> </p>
+<p><a href="">Twitter</a><a href="">Linkedln</a></p>
 </footer>
 </body>
 </html>
