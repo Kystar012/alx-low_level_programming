@@ -29,8 +29,8 @@
 </section>
 <hr>
 <footer>
-<p align=centre>&copy; <em>KYSTAR012</em> </p>
-<p><a href="">Twitter</a><a href="">Linkedln</a></p>
+<p><b>&copy;</b><em>KYSTAR012</em></p>
+<p><a href="https://www.linkedin.com/in/festus-mwirigi" target="_blank">Linkedln</a>  <a href="https://twitter.com/Fmwigat?t=OoDu4KcGoTX5TxKCHoLZkA&s=09" target="_blank">Twitter</a></p>
 </footer>
 </body>
 </html>
