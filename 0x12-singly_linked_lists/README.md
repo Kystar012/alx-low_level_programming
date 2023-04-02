@@ -1,7 +1,7 @@
 <html>
 <body>
 <header>
-<h1>
+<h1 style ="border:2px solid violet;">
 0x12. C - Singly linked lists
 </h1>
 <p>
@@ -13,7 +13,7 @@
  <hr>
 <section>
 <p>
-<table style ="border:2px solid violet;">
+<table border="1">
 <tr><th><b>Files</b ></th><th><b>Description of Functions</b></th></tr>
 <tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/0-print_list.c">0-print_list.c</a></td><td></td></tr>
 <tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/1-list_len.c">1-list_len.c</a></td><td></td></tr>
