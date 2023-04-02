@@ -19,10 +19,12 @@
 <ul><li>Return: the number of nodes</li>
 <li>If str is <mark>NULL</mark>, print [0] (nil)</li></ul></td></tr>
 <tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/1-list_len.c">1-list_len.c</a></td><td>Write a function that returns the number of elements in a linked <b>list_t</b> list. </td></tr>
-<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/2-add_node.c">2-add_node.c</a></td><td></td></tr>
-<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/3-add_node_end.c">3-add_node_end.c</a></td><td></td></tr>
-<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/4-free_list.c">4-free_list.c</a></td><td></td></tr>
-<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/lists.h">lists.h</a></td><td></td></tr>
+<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/2-add_node.c">2-add_node.c</a></td><td>A function that adds a new node at the beginning of a <b>list_t</b> list.<ul><li>
+Return: the address of the new element, or <b>NULL</b> if it failed</li>
+<li><b>str</b> needs to be duplicated</li></ul></td></tr>
+<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/3-add_node_end.c">3-add_node_end.c</a></td><td>A function that adds a new node at the end of a <b>list_t</b> list.</td></tr>
+<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/4-free_list.c">4-free_list.c</a></td><td>Write a function that frees a <b>list_t</b> list</td></tr>
+<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/lists.h">lists.h</a></td><td>The file contains the prototypes of the Project.</td></tr>
 </table>
 </p>
 </section>
