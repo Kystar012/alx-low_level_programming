@@ -1,3 +1,4 @@
+#include "lists.h"
 /**
   *free_listint2-frees memory allocated to jead
   *@head:pointer to linked list
@@ -15,7 +16,7 @@ void free_listint2(listint_t **head)
 	{
 		current = (*head)->next;
 		free(*head);
-		*head = current
+		*head = current->next;
 	}
-	head = NULL;
+	*head = NULL;
 }
