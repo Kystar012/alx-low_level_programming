@@ -2,10 +2,7 @@
 <html>
 <head>
 <style>
-h1{
-    border:2px solid violet;
-color:powderblue;
-}
+h1 {color: powderblue;}
 </style>
 </head>
 <body>
