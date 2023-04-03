@@ -26,7 +26,7 @@
 <tr><td>&#128204;</td><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/7-get_nodeint.c">7-get_nodeint.c</a></td><td>returns the nth node of a listint&lowerbar;t linked list.</td></tr>
 <tr><td>&#128204;</td><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/8-sum_listint.c">8-sum_listint.c</a></td><td>returns the sum of all the data (n) of a listint&lowerbar;t linked list.</td></tr>
 <tr><td>&#128204;</td><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/9-insert_nodeint.c">9-insert_nodeint.c</a></td><td>inserts a new node at a given position.</td></tr>
-<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/10-delete_nodeint.c">10-delete_nodeint.c</a></td><td>deletes the node at index index of a listint&lowerbar;t linked list.</td></tr>
+<tr><td>&#128204;</td><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/10-delete_nodeint.c">10-delete_nodeint.c</a></td><td>deletes the node at index index of a listint&lowerbar;t linked list.</td></tr>
 <tr><td>&#128204;</td><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/lists.h">lists.h</a></td><td>File contains all functions prototypes for this project.</td></tr>
 </table>
 </p>
