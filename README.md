@@ -1,8 +1,11 @@
 <html>
 <head>
+<style>
 h1{
-    style="border:2px solid violet;"
+    border:2px solid violet;
+color:powderblue;
 }
+</style>
 </head>
 <body>
 <h1> Alx-Low_Level_Programming.</h1>
