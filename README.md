@@ -1,10 +1,4 @@
-<DOCTYPE html>
 <html>
-<head>
-<style>
-h1 {color: powderblue;}
-</style>
-</head>
 <body>
 <h1> Alx-Low_Level_Programming.</h1>
 <p>This repository contains programs written for the low-level programming and algorithm for ALX-Africa Software Engineering Course. In these projects, which occurred throughout the duration of one year I learned about data structures, algorithms, and other low-level programming concepts while working in the C language. The specific list of projects contained follows; </p>
