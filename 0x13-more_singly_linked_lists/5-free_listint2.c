@@ -1,4 +1,3 @@
-#include "lists.h"
 /**
   *free_listint2-frees memory allocated to jead
   *@head:pointer to linked list
