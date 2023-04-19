@@ -1,0 +1,10 @@
+#include "3-calc.h"
+#include <stdio.h>
+#include <stdlib.h>
+/**
+  *main-
+  */
+int main(void)
+{
+
+}

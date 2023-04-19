@@ -2,7 +2,7 @@
 /**
  * op_add-finds the addition of number a and b
  * @a:number to add
- * @b:number o add 
+ * @b:number o add
  *
  * Return:sum of a and b
  */
