@@ -13,18 +13,6 @@
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings">0x05-pointers_arrays_strings </a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings">0x06-pointers_arrays_strings</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x08-recursion">0x08-recursion</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x09-static_libraries">0x09-static_libraries</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0A-argc_argv">0x0A-argc_argv</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0B-malloc_free">0x0B-malloc_free</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0C-more_malloc_free">0x0C-more_malloc_free</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0D-preprocessor">0x0D-preprocessor </a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0E-structures_typedef">0x0E-structures_typedef</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0F-function_pointers">0x0F-function_pointers</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x10-variadic_functions">0x10-variadic_functions</a></li>
-<li><a href="https://github.com/Kystar012/printf">0x11. C - printf</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x12-singly_linked_lists">0x12-singly_linked_lists</a></li>
-<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists">0x13-more_singly_linked_lists</a></li>
 </ol>
 </section>
 <hr>
