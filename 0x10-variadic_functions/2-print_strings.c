@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 /**
-  *print_strings-pronts the string
+  *print_strings-prints the string
   *@n:number of string passsed to argument
   *@separator:string to be printed between strings
   *
@@ -25,6 +25,6 @@ void print_strings(const char *separator, const unsigned int n, ...)
 		if (index != (n - 1) && separator != NULL)
 			printf("%s", separator);
 	}
-	printf("\n");
 	va_end(pstr);
+	printf("\n");
 }
