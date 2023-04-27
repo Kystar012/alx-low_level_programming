@@ -5,7 +5,6 @@
 <hr>
 <section>
 <p>
-<table border="1"><tr><th>NO.</th><th>Projects</th></tr>
 <ol>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master"> 0x00. C - Hello, World</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x01-variables_if_else_while"> 0x01. C - Variables, if, else, while.</a></li>
@@ -28,7 +27,6 @@
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x12-singly_linked_lists">0x12-singly_linked_lists</a></li>
 <li><a href=""></a></li>
 </ol>
-</table>
 </p>
 </section>
 <hr>
