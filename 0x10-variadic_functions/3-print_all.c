@@ -10,7 +10,7 @@
   */
 void print_all(const char * const format, ...)
 {
-	va_list pall;
+	va_list print;
 	char *type;
 	int index;
 
@@ -18,5 +18,5 @@ void print_all(const char * const format, ...)
 
 	}
 	printf("\n");
-	va_end(pall);
+	va_end(print);
 }

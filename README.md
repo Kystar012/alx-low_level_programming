@@ -4,7 +4,7 @@
 <p style="color:solid violet;">This repository contains programs written for the low-level programming and algorithm for ALX-Africa Software Engineering Course. In these projects, which occurred throughout the duration of one year I learned about data structures, algorithms, and other low-level programming concepts while working in the C language. The specific list of projects contained follows; </p>
 <hr>
 <section>
-<p><ol>
+<p><ol><table border="1"><tr><th>NO.</th><th>Projects</th>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master"> 0x00. C - Hello, World</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x01-variables_if_else_while"> 0x01. C - Variables, if, else, while.</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x02-functions_nested_loops">0x02-functions_nested_loops</a></li>
@@ -13,6 +13,18 @@
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings">0x05-pointers_arrays_strings </a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings">0x06-pointers_arrays_strings</a></li>
 <li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x08-recursion">0x08-recursion</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x09-static_libraries">0x09-static_libraries</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0A-argc_argv">0x0A-argc_argv</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0B-malloc_free">0x0B-malloc_free</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0C-more_malloc_free">0x0C-more_malloc_free</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0D-preprocessor">0x0D-preprocessor</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0E-structures_typedef">0x0E-structures_typedef</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x0F-function_pointers">0x0F-function_pointers</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x10-variadic_functions">0x10-variadic_functions</a></li>
+<li><a href="https://github.com/Anzelah/printf">0x11-printf</a></li>
+<li><a href="https://github.com/Kystar012/alx-low_level_programming/tree/master/0x12-singly_linked_lists">0x12-singly_linked_lists</a></li>
+<li><a href=""></a></li>
 </ol>
 </section>
 <hr>
