@@ -4,7 +4,7 @@
 extern printf
 
 section.data:
-    string: db "Hello, Holderton", 0Ah, 0
+    string: db "Hello, Holberton", 0Ah, 0
     format: db "s", 0Ah, 0
 
 section .text
