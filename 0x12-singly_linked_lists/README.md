@@ -24,7 +24,7 @@ Return: the address of the new element, or <b>NULL</b> if it failed</li>
 <li><b>str</b> needs to be duplicated</li></ul></td></tr>
 <tr><td>&#128204;</td><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/3-add_node_end.c">3-add_node_end.c</a></td><td>A function that adds a new node at the end of a <b>list_t</b> list.</td></tr>
 <tr><td>&#128204;</td><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/4-free_list.c">4-free_list.c</a></td><td>Write a function that frees a <b>list_t</b> list</td></tr>
-<tr><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/lists.h">lists.h</a></td><td>The file contains the prototypes of the Project.</td></tr>
+<tr><td>&#128204;</td><td><a href="https://github.com/Kystar012/alx-low_level_programming/blob/master/0x12-singly_linked_lists/lists.h">lists.h</a></td><td>The file contains the prototypes of the Project.</td></tr>
 </table>
 </p>
 </section>
