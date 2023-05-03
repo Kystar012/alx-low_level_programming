@@ -2,7 +2,7 @@
 /**
   *insert_nodeint_at_index-inserts a new node at a goven point
   *@head:pointer to pointer
-  *@idx:count of nodes
+  *@index:count of nodes
   *@n:constant number
   *
   *Return:address of new node
